@@ -1,4 +1,4 @@
-![191117_Konyang Health Datatathon 2019_SNS_v1 2-01](https://user-images.githubusercontent.com/57554278/69030276-69486100-0a1a-11ea-90d8-d9eed2ac05c6.png)
+![HACKATHON DESIGN POSTER_0820](https://user-images.githubusercontent.com/70007451/90865467-5a3d7780-e3cd-11ea-955d-2033c276a6dc.jpg)
 # Korea Health Datathon 2020
 의료 인공지능에 도전해보세요! <br>
 Korea Health Datathon 2020은 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 학습용 의료 영상 데이터를 활용하여 X-ray 영상(부비동), 디지털 병리 영상(유방암) 이미지를 활용해 실제 구현 가능한 인공지능 학습 모델을 기획하고 개발하는 데이터톤 대회입니다. <br>
