@@ -31,7 +31,7 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
       <strong>예선 1차</strong><br>
     </td>
     <td style="text-align:center">2020년 9월 7일(월) 10:00 ~ 9월 8일(화) 17:00</td>
- <td> 온라인
+ <td align=center> 온라인
     </td>
    </tr>
      <tr>
@@ -39,15 +39,15 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
       <strong>예선 2차</strong><br>
     </td>
     <td style="text-align:center">2020년 9월 9일(수) 10:00 ~ 9월 10일(목) 17:00</td>
- <td> 온라인
+        <td align=center> 온라인
     </td>
    </tr>
      <tr>
-    <td>
+    <td align=center>
       <strong>본선</strong><br>
     </td>
     <td style="text-align:center">2020년 9월 14일(월) 10:00 ~ 9월 15일(화) 17:00</td>
- <td> 온라인
+ <td align=center> 온라인
     </td>
    </tr>
 </table>
