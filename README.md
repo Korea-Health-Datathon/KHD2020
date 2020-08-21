@@ -23,16 +23,33 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
     <td>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center"> 2020년 8월 24일(월) ~ 9월 3일(수) 23시 59분 59초</td>
+    <td style="text-align:center"> 2020년 8월 24일(월) ~ 9월 3일(목) 23시 59분 59초</td>
     <td> 온라인(https://bit.ly/31ite4e) </td>
   </tr>
   <tr>
     <td>
-      <strong>데이터톤</strong><br>
+      <strong>예선 1차</strong><br>
     </td>
-    <td style="text-align:center">2020년 9월 14일(금) 10:00 ~ 9월 15일(화) 17:00 (무박2일)</td>
+    <td style="text-align:center">2020년 9월 7일(월) 10:00 ~ 9월 8일(화) 17:00</td>
  <td> 온라인
     </td>
+   </tr>
+     <tr>
+    <td>
+      <strong>예선 2차</strong><br>
+    </td>
+    <td style="text-align:center">2020년 9월 9일(수) 10:00 ~ 9월 10일(목) 17:00</td>
+ <td> 온라인
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <strong>본선</strong><br>
+    </td>
+    <td style="text-align:center">2020년 9월 14일(월) 10:00 ~ 9월 15일(화) 17:00</td>
+ <td> 온라인
+    </td>
+   </tr>
 </table>
 ※ 데이터톤 참가자에게는 일정 및 진행사항에 대해 개별 안내드립니다.<br><br>
 
