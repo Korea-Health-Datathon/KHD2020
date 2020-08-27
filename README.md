@@ -6,8 +6,10 @@ Korea Health Datathon 2020은 '인공지능 학습용 데이터 구축 사업'�
 AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다리고 있습니다.
 ## 시상 및 혜택
 - 총상금: 10,000,000원<br>
-&emsp;&emsp;&emsp; A Track (부비동) 1등 300만원 / 2등 200만원<br>
-&emsp;&emsp;&emsp; B Track (유방암) 1등 300만원 / 2등 200만원<br>
+   
+&emsp;&emsp;&emsp; A Track (부비동) 1등 300만원 / 2등 200만원 / 3등 보건복지부장관상 150만원 <br>
+&emsp;&emsp;&emsp; B Track (유방암) 1등 300만원 / 2등 200만원 / 3등 보건복지부장관상 150만원 <br>
+
 &emsp;&emsp;&emsp; (선정 기준은 각 문제별 득점순으로 선정)
 - 200만원 상당의 경품 제공 (총 10팀)
 - AI 전문가 강의와 멘토링
@@ -23,30 +25,22 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
     <td>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center"> 2020년 8월 24일(월) ~ 9월 3일(목) 23시 59분 59초</td>
-    <td> 온라인(https://bit.ly/31ite4e) </td>
+    <td style="text-align:center"> 2020년 8월 31일(월) ~ 9월 17일(목) 23시 59분 59초</td>
+    <td> 온라인(https://bit.ly/2YFf1MJ) </td>
   </tr>
-  <tr>
+    <tr>
     <td>
-      <strong>예선 1차</strong><br>
+      <strong>서류심사</strong><br>
     </td>
-    <td style="text-align:center">2020년 9월 7일(월) 10:00 ~ 9월 8일(화) 17:00</td>
- <td align=center> 온라인
-    </td>
-   </tr>
-     <tr>
-    <td>
-      <strong>예선 2차</strong><br>
-    </td>
-    <td style="text-align:center">2020년 9월 9일(수) 10:00 ~ 9월 10일(목) 17:00</td>
-        <td align=center> 온라인
+    <td style="text-align:center">2020년 9월 18일(금)</td>
+        <td align=center> 합격팀 개별 통보
     </td>
    </tr>
      <tr>
     <td align=center>
       <strong>본선</strong><br>
     </td>
-    <td style="text-align:center">2020년 9월 14일(월) 10:00 ~ 9월 15일(화) 17:00</td>
+    <td style="text-align:center">2020년 9월 21일(월) 14:00 ~ 9월 25일(목) 17:00</td>
  <td align=center> 온라인
     </td>
    </tr>
@@ -61,22 +55,21 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
 
 ## 심사기준
 - NSML Leader Board score
-- NSML Leader Board의 score : 2020년 9월 15일(화) 17:00 종료 시점 기준으로 submit이 완료된 상태여야 함
+- NSML Leader Board의 score : 2020년 9월 25일(금) 17:00 종료 시점 기준으로 submit이 완료된 상태여야 함
 
 ## 참가신청
-- 참가신청 마감:  ~ 9월 3일(목) 23시 59분 59초
-- 심사 후 개별 안내
+- 참가신청 마감: 2020년 8월 31일(월) ~ 9월 17일(목) 23시 59분 59초
+- 서류심사 후 본선 진출팀 개별 안내
 - 참가대상: 의료 영상을 활용한 인공지능 학습 모델 개발에 관심있는 누구나 (2인 이상 팀 구성)
-- 참가규모: 예선 1차/2차 각 50개팀 (총 100개팀), 본선 50개팀 (팀별 신청, 팀별 최소 2인 이상)
-- 참가신청: https://bit.ly/31ite4e
-- 문의: khd-help@iteyes.co.kr  
+- 참가규모: 본선 A Track 25개팀 / B Track 25개팀 총 50개팀 (팀별 신청, 팀별 최소 2인 이상)
+- 참가신청: https://bit.ly/2YFf1MJ
+- 문의: help@korea-health-datathon.org  
 
 ## 해커톤 
 - 해커톤 일시 
-(예선 1차) 2020년 9월 7일(월) 10:00 ~ 9월 8일(화) 17:00 <br>
-(예선 2차) 2020년 9월 9일(수) 10:00 ~ 9월 10일(목) 17:00 <br>
-(본 선) 2020년 9월 14일(월) 10:00 ~ 9월 15일(화) 17:00 <br>
-*예선 이후 상위 점수 순서로 본선 진출팀 선정 및 개별 통보
+(공모 및 접수) 2020년 8월 31일(월) ~ 9월 17일(목) <br>
+(서류심사) 2020년 9월 18일(금) (서류 심사 후 본선 진출팀 개별 통보)
+(온라인 본선) 2020년 9월 21일(월) 14:00 ~ 9월 25일(금) 17:00 <br>
 - 방식: 온라인
 
 ## 추진
@@ -85,8 +78,8 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
 - 후원: 한국정보화진흥원, 대전광역시, 대한의료정보학회
 
 ## FAQ
-- 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/khd2019/khd2019/blob/master/FAQ_G.md)
+- 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/korea-health-datathon/khd2020/blob/master/FAQ.md)
 
 ## 문의
 issue 페이지에 문의글을 남기시면 담당자가 답변드립니다. <br>
-개인사항이 포함된 문의는 khd-help@iteyes.co.kr 로 메일주세요. 
+개인사항이 포함된 문의는 help@korea-health-datathon.org 로 메일주세요. 
