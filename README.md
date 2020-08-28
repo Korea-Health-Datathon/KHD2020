@@ -5,14 +5,14 @@ Korea Health Datathon 2020은 '인공지능 학습용 데이터 구축 사업'�
 ‘Korea Health Datathon 2020’은 네이버의 클라우드 머신러닝 플랫폼인 NSML(Naver Smart Machine Learning)과 함께 합니다. <strong>[NSML](https://ai.nsml.navercorp.com/intro)</strong>은 개발자들이 "모델 개발과 알고리즘 최적화"에만 집중할 수 있도록 필요한 제반 환경을 제공합니다. 
 AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다리고 있습니다.
 ## 시상 및 혜택
-- 총상금: 13,000,000원<br>
+- 총상금: 10,000,000원<br>
    
-&emsp;&emsp;&emsp; A Track (부비동) 1등 NBP기술혁신상 300만원 / 2등 NBP우수상 200만원 / 3등 보건복지부장관상 150만원 <br>
-&emsp;&emsp;&emsp; B Track (유방암) 1등 NBP기술혁신상 300만원 / 2등 NBP우수상 200만원 / 3등 보건복지부장관상 150만원 <br>
+&emsp;&emsp;&emsp; A Track (부비동) 1등 NBP기술혁신상 300만원 / 2등 NBP우수상 200만원 <br>
+&emsp;&emsp;&emsp; B Track (유방암) 1등 NBP기술혁신상 300만원 / 2등 NBP우수상 200만원 <br>
 
 &emsp;&emsp;&emsp; (선정 기준은 각 문제별 득점순으로 선정)
 - 200만원 상당의 경품 제공 (총 10팀)
-- AI 전문가 강의와 멘토링
+- AI 전문가 멘토링
    
 ## 데이터톤 일정
 <table class="tbl_schedule">
