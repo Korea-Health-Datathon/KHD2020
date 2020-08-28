@@ -6,11 +6,29 @@ Korea Health Datathon 2020은 '인공지능 학습용 데이터 구축 사업'�
 AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다리고 있습니다.
 ## 시상 및 혜택
 - 총상금: 10,000,000원<br>
-   
-&emsp;&emsp;&emsp; A Track (부비동) 1등 KHD 최우수상 300만원 / 2등 네이버 클라우드 플랫폼상 200만원 <br>
-&emsp;&emsp;&emsp; B Track (유방암) 1등 KHD 최우수상 300만원 / 2등 네이버 클라우드 플랫폼상 200만원 <br>
 
-&emsp;&emsp;&emsp; (선정 기준은 각 문제별 득점순으로 선정)
+<table class="tbl_prize">
+  <tr>
+    <th style="text-align:left;width:50%">구분</th>
+    <th style="text-align:center;width:15%">시상</th>
+        <th style="text-align:left;width:35%">상금</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>각 부문 1등</strong><br>
+    </td>
+    <td align=center> KHD 최우수상 </td>
+    <td> 상금 300만원 </td>
+  </tr>
+    <tr>
+    <td>
+      <strong>각 부문 2등</strong><br>
+    </td>
+    <td style="text-align:center"> 네이버 클라우드 플랫폼상</td>
+        <td align=center> 상금 200만원 </td>
+   </tr>
+</table>
+(선정 기준은 각 문제별 득점순으로 선정)
 - 200만원 상당의 경품 제공 (총 10팀)
 - AI 전문가 멘토링
    
