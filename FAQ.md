@@ -29,7 +29,7 @@
 
 ### Q. NSML 사용법은 어디서 확인 할 수 있나요? 
 아래 튜토리얼과 document를 참고 하십시오.
-- https://www.youtube.com/watch?v=21ylProAbxA (동영상 길이: 13분 31초) 
+- 튜토리얼 동영상: https://www.youtube.com/watch?v=21ylProAbxA (동영상 길이 13분 31초) 
 - NSML document: https://n-clair.github.io/ai-docs/_build/html/en_US/index.html 
 
 ### Q. NSML에서 사용하는 언어는 뭔가요?
