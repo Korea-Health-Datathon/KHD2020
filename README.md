@@ -12,7 +12,7 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
 - B Track: 유방 병리 이미지 분류 모델 개발
   - 양성과 악성으로 구성된 병리 이미지들을 효율적으로 분류하는 딥러닝 모델 개발<p>
   
-※ A/B Track 중 참가 신청 시 미션 선택하여 참가
+※ A/B Track 중 참가 신청 시 1개의 미션을 선택하여 참가
   
 ## 시상 및 혜택
 - 총상금: 10,000,000원<br>
@@ -90,8 +90,7 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
 - 참가신청: https://bit.ly/3hLEBYe
 - 문의: khd-help@iteyes.co.kr  
 
-*참가 신청 시 팀의 commit log 기재 방법
-https://github.com/Korea-Health-Datathon/KHD2020/issues/5
+※ 참가 신청 시 팀의 commit log 기재 방법 https://github.com/Korea-Health-Datathon/KHD2020/issues/5
 
 ## 추진
 - 주최: NCP(NAVER CLOUD PLATFORM)
