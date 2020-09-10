@@ -89,8 +89,7 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
 - 문의: khd-help@iteyes.co.kr  
 
 *참가 신청 시 팀의 commit log 기재 방법
-https://github.com/Korea-Health-Datathon/KHD2020/issues/3
-
+https://github.com/Korea-Health-Datathon/KHD2020/issues/5
 
 ## 추진
 - 주최: NCP(NAVER CLOUD PLATFORM)
