@@ -38,8 +38,17 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
     <td style="text-align:center"> 네이버 클라우드 플랫폼상</td>
         <td align=center> 상금 200만원 </td>
    </tr>
+      <tr>
+    <td>
+      <strong>각 부문 특별상</strong><br>
+    </td>
+    <td style="text-align:center">보건복지부장관상</td>
+        <td align=center> 상금 150만원 </td>
+   </tr>
+
 </table>
-(각 부문 득점순으로 A Track/B Track 각각 1,2위 선정 및 )
+*각 부문 득점순으로 A Track/B Track 각각 1,2위 및 특별상 선정
+*동점자 발생 시에는 먼저 제출한 순서대로 리더보드에 표시되며, 리더보드 순위대로 시상
 
 - 200만원 상당의 경품 제공 (총 10팀)
 
