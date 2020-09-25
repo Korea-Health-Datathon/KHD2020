@@ -16,7 +16,7 @@ AI 전문가들과 함께 의료 인공지능에 도전하실 분들을 기다�
 &emsp;Pretrained model 사용 가능
    
 ## 시상 및 혜택
-- 총상금: 10,000,000원<br>
+- 총상금: 13,000,000원<br>
 
 <table class="tbl_prize">
   <tr>
